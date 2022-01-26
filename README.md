@@ -1,5 +1,7 @@
 # Getting Started
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/d2ef37d4-eb16-4184-abf8-0197798a4c13.svg?orgId=650162616495)](https://app.soluble.cloud/repos/details/github.com/james-leha/nodejs_testapp?orgId=650162616495)  
+
 This is a very simple Node application that uses the Express framework. It is designed to work well with [Visual Studio Code](https://code.visualstudio.com) and to be easily deployed to [Azure App Service](https://azure.microsoft.com/en-us/services/app-service/), Azure's fully-managed Platform as a Service (PaaS) that let's you deploy and scale web, mobile, and API apps. 
 
 ## Running the Application
